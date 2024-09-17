@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ojas Tapadia</h1>
-<h3 align="center">A passionate backend developer(uses arch btw xd)</h3>
+<h3 align="center">A passionate backend developer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=0ju1c3" alt="0ju1c3" /></a> </p>
 
