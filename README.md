@@ -1,6 +1,16 @@
 <h1 align="center">Hi 👋, I'm Ojas Tapadia</h1>
 <h3 align="center">A passionate backend developer</h3>
 
+-----
+
+<p align="center">
+ 
+![image](https://user-images.githubusercontent.com/61057666/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png)
+
+</p>
+
+-----
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=0ju1c3" alt="0ju1c3" /></a> </p>
 
 - 🔭 I’m currently working on [interactnow](interactnow.in)
