@@ -13,7 +13,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=0ju1c3" alt="0ju1c3" /></a> </p>
 
-- 🔭 I’m currently working on [interactnow](interactnow.in)
+- 🔭 I’m currently working as a Software Developer at [PreternaturalAI](https://preternatural.ai/)
 
 - 📫 How to reach me **otapadia@gmail.com**
 
