@@ -11,6 +11,12 @@ Software Developer at [PreternaturalAI](https://preternatural.ai/)
 
 ---
 
+### Building
+
+**[BlogKeep](https://blogkeep.cc)** — Follow blogs and save highlights from any webpage into one organized, searchable place.
+
+---
+
 ### Tech Stack
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
