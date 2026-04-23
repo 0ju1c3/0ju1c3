@@ -7,7 +7,6 @@
 Software Developer at [PreternaturalAI](https://preternatural.ai/)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ojastapadia-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ojastapadia)
-[![Instagram](https://img.shields.io/badge/Instagram-0ju1c3-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/0ju1c3)
 [![Email](https://img.shields.io/badge/Email-otapadia@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:otapadia@gmail.com)
 
 ---
