@@ -31,11 +31,11 @@ Software Developer at [PreternaturalAI](https://preternatural.ai/)
 
 ### Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=0ju1c3&show_icons=true&hide_border=true&count_private=true&theme=tokyonight&rank_icon=github" height="165"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=0ju1c3&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0ju1c3&layout=compact&hide_border=true&theme=tokyonight" height="165"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=0ju1c3&hide_border=true&theme=tokyonight" height="165"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=0ju1c3&theme=tokyonight&no-frame=true&row=1&column=6" />
 
 </div>
